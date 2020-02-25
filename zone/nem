@@ -1,0 +1,3 @@
+nem IN  NS  ns1.reg.ru.
+nem IN  NS  ns2.reg.ru.
+nem  IN  CNAME  emelianov.com.ru.
